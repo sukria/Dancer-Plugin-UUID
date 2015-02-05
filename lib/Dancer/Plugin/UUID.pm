@@ -1,5 +1,8 @@
+package Dancer::Plugin::UUID;
+#ABSTRACT: Dancer plugin to maintain unique identifiers for each visitor
+
 use strict;
 use warnings;
-package Dancer::Plugin::UUID;
+
 
 1;
