@@ -1,5 +1,6 @@
 /blib/
 Dancer-Plugin-*
+*.swp
 /.build/
 _build/
 cover_db/
