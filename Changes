@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+    * added README.md in root
+
 0.003     2015-02-06 11:19:29+01:00 Europe/Paris
 
     * added a README file (generated from the POD).
