@@ -1,4 +1,5 @@
 /blib/
+Dancer-Plugin-*
 /.build/
 _build/
 cover_db/
